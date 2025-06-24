@@ -5,8 +5,13 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 🔧 Features
 3x3 Tic Tac Toe game board
+
 Two-player support
+
 Game state tracking
+
 Win and draw detection
+
 Game reset functionality
+
 Clean and responsive UI
